@@ -1,0 +1,3 @@
+﻿  encoder.cpp
+c:\dev\c++\cipher\encoder\encoder\encoder.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  encoder.vcxproj -> C:\dev\C++\cipher\encoder\Debug\encoder.exe
